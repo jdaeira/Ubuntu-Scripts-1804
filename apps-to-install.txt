@@ -1,0 +1,43 @@
+Apps to Install
+
+qt5ct
+qt5-style-plugins
+export QT_QPA_PLATFORMTHEME=qt5ct && qt5ct
+
+flatpaks for google play music
+spotify
+thunar-extended?
+hex chat
+sudo aptitude install compiz compizconfig-settings-manager compiz-plugins
+
+
+Compiz
+Inside Terminal for Max/Min Buttons: gsettings set org.gnome.desktop.wm.preferences button-layout "'menu:minimize,maximize,close'"
+Inside Compiz Windows Decorations:  /usr/bin/gtk-window-decorator --metacity-theme UniteMod --replace
+
+Make Tilix Default Terminal for Nemo
+gsettings set org.cinnamon.desktop.default-applications.terminal exec tilix
+
+Update Kernel
+sudo add-apt-repository ppa:teejee2008/ppa
+sudo apt update
+sudo apt install ukuu -y
+
+Updated nVidia Drivers
+sudo add-apt-repository ppa:graphics-drivers/ppa
+sudo apt update
+
+For Raw Thumbnails
+gnome-raw-thumbnailer
+tumbler
+tumbler-common 
+tumbler-plugins-extra
+
+Fix Fonts in LibreOffice
+To disable this and get correct smoothing at all sizes do this: Create a file called .fonts.conf in the ~/.config/fontconfig directory, paste this code in it:
+<match target="font" >
+    <edit name="embeddedbitmap" mode="assign">
+        <bool>false</bool>
+    </edit>
+</match>
+
