@@ -16,6 +16,7 @@ gsettings set org.cinnamon.desktop.default-applications.terminal exec tilix
 sudo apt install synaptic -y
 sudo apt install meld -y
 sudo apt install gnome-raw-thumbnailer -y
+sudo apt install menulibre -y
 #sudo apt install ubuntu-restricted-extras -y
 
 
