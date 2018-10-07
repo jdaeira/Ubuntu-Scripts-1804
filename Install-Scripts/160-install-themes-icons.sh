@@ -22,7 +22,7 @@ echo "########## Surfn Icons Installed ###########"
 
 
 git clone https://github.com/erikdubois/Sardi-Extra
-sudo cp Sardi-Extra/Sardi* -r /usr/share/themes/
+sudo cp Sardi-Extra/Sardi* -r /usr/share/icons/
 sudo rm -r Sardi-Extra
 echo "########## Sardi Icons Installed ###########"
 
