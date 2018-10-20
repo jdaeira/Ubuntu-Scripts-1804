@@ -6,4 +6,4 @@ sudo apt install gdm3
 
 sudo apt remove ubuntu-session
 
-update-alternatives --config x-session-manager
+sudo update-alternatives --config gdm3.css
