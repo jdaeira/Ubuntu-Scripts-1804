@@ -1,0 +1,5 @@
+Gnome Tweaks Appearance
+1 - Applications: ZorinBlue-Light
+2 - Cursor: Breeze-Snow
+3 - Icons: Marwaita-Light
+4 - Shell: Flat-Remix-Dark
