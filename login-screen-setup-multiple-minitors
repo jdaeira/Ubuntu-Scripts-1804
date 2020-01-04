@@ -1,0 +1,8 @@
+put this in the gdm3.css file
+
+#lockDialogGroup {
+   background: #2c001e url(file:///home/jdaeira/Pictures/Wallpapers/Abstract-Wave-4K-Wallpaper-3840x2160.jpg);
+   background-repeat: repeat; 
+   background-size: 2560px 1440px;
+   background-position: center;
+}
