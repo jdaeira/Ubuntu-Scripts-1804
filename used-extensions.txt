@@ -1,0 +1,10 @@
+Clipboard Indicator
+Audio Out Switcher
+Dynamic Panel Transparency
+Emoji Selector
+Kstatusnotifieritem/appindicator support
+Multi Monitors add-on
+Openweather
+Unblank Screen Saver
+User Themes
+

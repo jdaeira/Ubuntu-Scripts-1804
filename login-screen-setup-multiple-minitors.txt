@@ -1,8 +1,8 @@
-put this in the gdm3.css file and pop.css or other gnome.css file
+put this in the gdm3.css file and pop.css or other gnome.css file in folder: /usr/share/gnome-shell/theme
 
 3 Screens
 #lockDialogGroup {
-   background: #2c001e url(file:///home/jdaeira/Pictures/Wallpapers/Abstract-Wave-4K-Wallpaper-3840x2160.jpg);
+   background: #2c001e url(file:///home/jdaeira/Pictures/Wallpapers/firewatch-wallpaper.png);
    background-repeat: repeat; 
    background-size: 2560px 1440px;
    background-position: center;
