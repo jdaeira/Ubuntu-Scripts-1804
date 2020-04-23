@@ -7,4 +7,6 @@ Multi Monitors add-on
 Openweather
 Unblank Screen Saver
 User Themes
-
+Bing Wallpaper Changer
+Overview All Windows
+Windows Overlay Icons
